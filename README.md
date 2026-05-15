@@ -1,4 +1,13 @@
 ## Hi there 👋
+- 👦 I am Swopnil Upreti.
+- 🔭 I’m currently working on building my personal projects.
+- 🌱 I’m currently learning C#, NestJS.
+-  📫 Email: swopnil45@gmail.com
+-  
+    
+  
+
+
 
 <!--
 **swopnilup/swopnilup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
