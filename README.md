@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👦 I am Swopnil Upreti.Developer with experience in Microsoft Dynamics 365 Business Central, Backend development, and ERP.
+- 👦 I am Swopnil Upreti.Developer with experience in Microsoft Dynamics 365 Business Central, Front and Backend development, and ERP.
          Bringing a strong work ethic, adaptability, and a keen interest in software and systems.
 - 🔭 I’m currently working on building my personal projects.
 - 🌱 I’m currently learning C#, NestJS.
